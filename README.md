@@ -1,5 +1,5 @@
 ## About
-hese are some projects made by me using Arduino microcontroller board.
+Here are some projects made by me using Arduino microcontroller board.
 
 Arduino
 ========
