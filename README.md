@@ -1,7 +1,5 @@
-# Arduino
-Arduino
-
-# These are some projects made by me using Arduino microcontroller board.
+## About
+hese are some projects made by me using Arduino microcontroller board.
 
 Arduino
 ========
